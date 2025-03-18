@@ -9,3 +9,7 @@ Q
 !contracts/distributed-backup.clar,d/7/d7ad5f9832820eace6734d7c94e2bd31cd393e98
 P
  tests/distributed-backup.test.ts,9/3/939362797ea4fb9b34a840276afddb6be1b0282d
+T
+$contracts/document-registration.clar,6/f/6fbb5655cc33972e8535f3d1e2756f3bc19a4cb7
+S
+#tests/document-registration.test.ts,a/0/a090f5e5cee32d5e61709b5103aecfefbe1f7f4f
